@@ -7,3 +7,5 @@ export { useEditorState };
 export { BubbleMenu } from '@tiptap/react';
 export type { Editor, UseEditorOptions } from '@tiptap/react';
 export * from './extensions/BaseKit';
+
+export { ActionButton } from './components/ActionButton';
